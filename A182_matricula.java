@@ -30,11 +30,11 @@ public class A182_matricula {
                 }
             }
 
-            if (formato) {
+            /*if (formato) {
                 System.out.println("El formato es correcto.");
             } else {
                 System.out.println("El formato es incorrecto!!!");
-            }
+            }*/
         }
     }
 }
